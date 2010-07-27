@@ -1,0 +1,8 @@
+Custom Serialize
+==============
+
+Custom serializer for your ActiveRecord attributes.
+
+See Arturaz::CustomSerialize::ClassMethods#custom_serialize for more information.
+
+Artūras Šlajus <x11@arturaz.net>, released under the MIT license
